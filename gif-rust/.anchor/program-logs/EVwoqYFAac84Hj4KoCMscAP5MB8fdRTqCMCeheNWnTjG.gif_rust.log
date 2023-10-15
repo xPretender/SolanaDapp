@@ -1,0 +1,37 @@
+Streaming transaction logs mentioning EVwoqYFAac84Hj4KoCMscAP5MB8fdRTqCMCeheNWnTjG. Confirmed commitment
+Transaction executed in slot 251236702:
+  Signature: 4VhLgUfGnqqppG4D9SmMkWVZTw3PscLiqqeunxUWQtA9iSeamDBDbvqL3PAwHMiChAMu2unCBQoPdandBipv5dG8
+  Status: Ok
+  Log Messages:
+    Program EVwoqYFAac84Hj4KoCMscAP5MB8fdRTqCMCeheNWnTjG invoke [1]
+    Program log: Instruction: StartStuffOff
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program EVwoqYFAac84Hj4KoCMscAP5MB8fdRTqCMCeheNWnTjG consumed 6772 of 200000 compute units
+    Program EVwoqYFAac84Hj4KoCMscAP5MB8fdRTqCMCeheNWnTjG success
+Transaction executed in slot 251236704:
+  Signature: 4VhLgUfGnqqppG4D9SmMkWVZTw3PscLiqqeunxUWQtA9iSeamDBDbvqL3PAwHMiChAMu2unCBQoPdandBipv5dG8
+  Status: Ok
+  Log Messages:
+    Program EVwoqYFAac84Hj4KoCMscAP5MB8fdRTqCMCeheNWnTjG invoke [1]
+    Program log: Instruction: StartStuffOff
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program EVwoqYFAac84Hj4KoCMscAP5MB8fdRTqCMCeheNWnTjG consumed 6772 of 200000 compute units
+    Program EVwoqYFAac84Hj4KoCMscAP5MB8fdRTqCMCeheNWnTjG success
+Transaction executed in slot 251236704:
+  Signature: 4a4QR1ZZy2jdSB9prBY3WW13efHRna5T6X2M5WzuZqgCYxmbq6wWMCHxhd9rzJ39XUgZFwxLyeKXoQ2FJAKMCrrP
+  Status: Ok
+  Log Messages:
+    Program EVwoqYFAac84Hj4KoCMscAP5MB8fdRTqCMCeheNWnTjG invoke [1]
+    Program log: Instruction: AddGif
+    Program EVwoqYFAac84Hj4KoCMscAP5MB8fdRTqCMCeheNWnTjG consumed 3411 of 200000 compute units
+    Program EVwoqYFAac84Hj4KoCMscAP5MB8fdRTqCMCeheNWnTjG success
+Transaction executed in slot 251236705:
+  Signature: 4a4QR1ZZy2jdSB9prBY3WW13efHRna5T6X2M5WzuZqgCYxmbq6wWMCHxhd9rzJ39XUgZFwxLyeKXoQ2FJAKMCrrP
+  Status: Ok
+  Log Messages:
+    Program EVwoqYFAac84Hj4KoCMscAP5MB8fdRTqCMCeheNWnTjG invoke [1]
+    Program log: Instruction: AddGif
+    Program EVwoqYFAac84Hj4KoCMscAP5MB8fdRTqCMCeheNWnTjG consumed 3411 of 200000 compute units
+    Program EVwoqYFAac84Hj4KoCMscAP5MB8fdRTqCMCeheNWnTjG success
